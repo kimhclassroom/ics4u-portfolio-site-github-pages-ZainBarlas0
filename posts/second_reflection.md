@@ -1,3 +1,3 @@
  # Second Reflection
 
-[Main Page](./index.md)
+[Main Page](/index.md)
