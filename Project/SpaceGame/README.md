@@ -6,10 +6,10 @@ This project serves as a comprehensive demonstration of Java GUI development, mu
 
 ## 🎯 Project Goals & Purpose
 The primary goal of this project was to master the fundamentals of game development within the Java ecosystem, specifically focusing on:
-1. **Multi-threading:** Implementing a stable game loop using `Runnable` and managing thread safety with `CopyOnWriteArrayList`.
-2. **File I/O:** Managing local databases using `Scanner` and `PrintWriter` for user data and scores.
-3. **UI/UX Design:** Creating an interactive interface using Swing components and custom graphics rendering.
-4. **Login/Signup:** creating a functioning account creation system
+1. **Multi-threading:** Implementing a stable game loop using `Runnable` and Threads.
+2. **File Input/Output:** Managing local databases using `Scanner`, `PrintWriter`, and  `FileWriter` for user data and scores.
+3. **UI Design:** Creating an interactive interface using Java Swing components and custom graphics rendering.
+4. **Login/Signup:** creating a functioning account creation system and Login System.
 
 ---
 
@@ -43,6 +43,7 @@ To get a local copy up and running, follow these steps:
  - **S/DOwn Arrow:** Move Backward
  - **A/Left Arrow:** Move Left
  - **D/Right Arrow:** Move Right
+
 
 
 
