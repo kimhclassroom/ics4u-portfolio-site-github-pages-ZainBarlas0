@@ -14,7 +14,7 @@ The primary goal of this project was to master the fundamentals of game developm
 ---
 
 ## 🏗️ Folder Structure
-The workspace has 3 folders:
+The workspace has 2 folders:
 1. **src folder:** contians all the main files including the images
 2. **bin folder**
 
@@ -31,4 +31,5 @@ To get a local copy up and running, follow these steps:
 4. **Manually add all teh project files in the src file of your current project**
 5. **Then in your current Java projects main folder add a "Content.txt" and "Profile.txt" file**
 6. **Make sure to have all the images in the src file and not outside it other wise it will not function**
+
 
