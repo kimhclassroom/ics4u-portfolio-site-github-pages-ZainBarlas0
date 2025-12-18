@@ -1,0 +1,49 @@
+# Space Crusader 🚀
+Space Crusader is fast paced 2D game made from the ground up using Java Swing framework. You pilot a space ship that gets pulled into an asteroid belt and now you must dodge in coming asteroids and collect coins to increase your score.
+
+## 📖 Project Overview
+This project serves as a comprehensive demonstration of Java GUI development, multi-threading, and persistent data management. It features a fully functional user authentication system and a synchronized game loop designed for smooth performance.
+
+## 🎯 Project Goals & Purpose
+The primary goal of this project was to master the fundamentals of game development within the Java ecosystem, specifically focusing on:
+1. **Multi-threading:** Implementing a stable game loop using `Runnable` and Threads.
+2. **File Input/Output:** Managing local databases using `Scanner`, `PrintWriter`, and  `FileWriter` for user data and scores.
+3. **UI Design:** Creating an interactive interface using Java Swing components and custom graphics rendering.
+4. **Login/Signup:** creating a functioning account creation system and Login System.
+
+---
+
+## 🏗️ Folder Structure
+The workspace has 2 folders:
+1. **src folder:** contians all the main files including the images
+2. **bin folder**
+
+## ⚙️ Installation & Setup
+To get a local copy up and running, follow these steps:
+### Pre requisites ###
+* **Java Development Kit(JDK)** or higher.
+* An IDE( preferably VS CODE)
+
+### SetUp ###
+1. **Make sure to have the prerequisites**
+2. **Clone the repository or download all files directly**
+3. **Create a Java Project in VS CODE(preffered) or Open the folder in VS Code**
+4. **Manually add all teh project files in the src file of your current project**
+5. **Then in your current Java projects main folder add a "Content.txt" and "Profile.txt" file**
+6. **Make sure to have all the images in the src file and not outside it other wise it will not function**
+
+---
+
+## 🕹️ How to Play
+1. **Sign up first and make an account**
+2. **Then login with the details of your account you can use either your user id or email**
+3. **Then once logged in press Play to start**
+### Controls ###
+ - **W/Up Arrow:** Move Forward
+ - **S/DOwn Arrow:** Move Backward
+ - **A/Left Arrow:** Move Left
+ - **D/Right Arrow:** Move Right
+
+
+
+

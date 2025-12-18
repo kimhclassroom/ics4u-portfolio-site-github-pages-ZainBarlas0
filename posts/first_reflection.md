@@ -1,7 +1,5 @@
-# First Reflection
-What I learned this week (bullets are fine, you may include an image):
+# Space Crusader: Report
+The initial AI code was made using Google Gemini AI. It gave me several classes for the game itself, it made me GamePanel, Coin, Jet, Obstacle and GameObject(abstract class). These files only made the base game with no graphics, menu, login/signup pages, gameover screen, etc. To implement the game over screen I made a GameOverPanel Class that made the screen with JLabel and JButton. So I created a draw game over function that makes the GameOver Panel visible. I also created getters in order to add functionality in the Controller Class. I also added a function that checks the highscore and saves it inside of the Game Panel. To add the space background I had to use try catch to first check if the files exist then use the set background function. For the plane image inside of the Jet Class I did the same thing as the game panel where I first used try catch to check for the image file then implement it onto the sprite. Other things I added on my own were the Signup/ register pages. My program meets all the requirements because it has collision detection between three different shapes (coins, jet and obstacles). There is a creative effect where the hearts disappear on the impact with the obstacles. There are two key interactive elements such as key pressed(for input) and buttons to navigate between pages. I have a game object abstract class with three concrete classes Jet, Coin and Obstacles. The GUI Design is friendly and easy to understand with the login or sign up page giving the user a message if they do something wrong.
 
-- Topic(s):
-- What I struggled with:
-- What I’m proud of:
-- Next steps:
+
+[Main Page](../index.md)
