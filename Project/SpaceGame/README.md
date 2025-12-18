@@ -25,3 +25,4 @@ To get a local copy up and running, follow these steps:
 3. **Create a Java Project in VS CODE(preffered) or Open the folder in VS Code**
 4. **Manually add all teh project files in the src file of your current project**
 5. **Then in your current Java projects main folder add a "Content.txt" and "Profile.txt" file**
+6. **Make sure to have all the images in the src file and not outside it other wise it will not function**
