@@ -34,7 +34,7 @@ To get a local copy up and running, follow these steps:
 
 ---
 
-##🕹️ How to Play ##
+## 🕹️ How to Play
 1. **Sign up first and make an account**
 2. **Then login with the details of your account you can use either your user id or email**
 3. **Then once logged in press Play to start**
@@ -43,5 +43,6 @@ To get a local copy up and running, follow these steps:
  - **S/DOwn Arrow:** Move Backward
  - **A/Left Arrow:** Move Left
  - **D/Right Arrow:** Move Right
+
 
 
