@@ -32,4 +32,15 @@ To get a local copy up and running, follow these steps:
 5. **Then in your current Java projects main folder add a "Content.txt" and "Profile.txt" file**
 6. **Make sure to have all the images in the src file and not outside it other wise it will not function**
 
+---
+
+##🕹️ How to Play
+1. **Sign up first and make an account**
+2. **Then login with the details of your account you can use either your user id or email**
+3. **Then once logged in press Play to start**
+### Controls ###
+ - **W/Up Arrow:** Move Forward
+ - **S/DOwn Arrow:** Move Backward
+ - **A/Left Arrow:** Move Left
+ - **D/Right Arrow:** Move Right
 
