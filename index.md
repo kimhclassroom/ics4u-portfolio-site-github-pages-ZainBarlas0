@@ -3,7 +3,7 @@ Welcome to my ICS4U portfolio. I’ll use this site to post my work and reflecti
 
 ## Highlights
 - 🔧 Project 1: [Space Crusader](./Project/SpaceGame)
-- 📝 Blog/Reflection: 
+- 📝 Report: [Space Crusader Report](./posts/first_reflection.md) 
 ## About me
 My name is Zain Barlas, i am a student at Port Credit Secondary School. 
 
